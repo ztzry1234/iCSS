@@ -1,14 +1,18 @@
-# iCSS -- interesting css
+## ![logo](https://github.com/chokcoco/iCSS/blob/master/logo.jpg?raw=true)
 
-本系列围绕 `CSS` 展开，谈一些有趣的话题，内容天马行空，想到什么说什么，不仅是为了拓宽解决问题的思路，更涉及一些容易忽视或是十分有趣的 CSS 细节。
+你想知道的 CSS 奇技淫巧，在这里，都有。
 
-持续更新中，觉得不错的可以点个 `star` 订阅收藏。
+本系列围绕 CSS 展开，谈一些有趣的话题，内容天马行空，想到什么说什么，不仅是为了拓宽解决问题的思路，更涉及一些容易忽视或是十分有趣的 CSS 细节。
+
+持续更新中，觉得不错的可以点个 `star` 订阅收藏支持。
 
 所有文章都在 Issues 中，同步更新到我的[个人博客](http://www.cnblogs.com/coco1s/)，也可以点击下面链接进行跳转。
 
+> 奇文共欣赏，疑义相与析。带着问题来也好，讨论各种黑科技、酷炫的 CSS 技术也行，[一键加 QQ 群讨论](//shang.qq.com/wpa/qunwpa?idkey=318940c0ae56f4556447291fb2fc6147a7b1760487c49c1e3410c377d946fc5a) 。
+
 ## Blog
 
-本 `CSS` 系列同步更新在我的博客：
+本 CSS 系列同步更新在我的博客：
 
 [CSS进阶系列](http://www.cnblogs.com/coco1s/category/833837.html)
 
@@ -89,7 +93,7 @@
 
 ![lineargradient](https://cloud.githubusercontent.com/assets/8554143/24186346/d984600a-0f12-11e7-8220-dc9a6c04b7ef.gif)
 
-#### 21、[提高 CSS 动画性能的正确姿势](https://github.com/chokcoco/iCSS/issues/11)
+#### 21、[提高 CSS 动画性能的正确姿势 | 盒子端 CSS 动画性能提升研究](https://github.com/chokcoco/iCSS/issues/11)
 
 #### 22、[纯 CSS 方式实现 CSS 动画的暂停与播放](https://github.com/chokcoco/iCSS/issues/12)
 
@@ -105,7 +109,7 @@
 
 #### 28、[不可思议的混合模式 `mix-blend-mode` ](https://github.com/chokcoco/iCSS/issues/16)
 
-#### 29、[`text-fill-color` 与 `color` 的异同](https://github.com/chokcoco/iCSS/issues/17)
+#### 29、[不可思议的混合模式 `background-blend-mode`](https://github.com/chokcoco/iCSS/issues/31)
 
 #### 30、[奇妙的 CSS shapes（CSS图形）](https://github.com/chokcoco/iCSS/issues/18)
 
@@ -113,11 +117,23 @@
 
 #### 32、[CSS 新特性`contain`，控制页面的重绘与重排](https://github.com/chokcoco/iCSS/issues/23)
 
-#### 33、[不受控制的 `position:fixed`](https://github.com/chokcoco/iCSS/issues/24)
+#### 33、[fixed 定位失效 || 不受控制的 `position:fixed`](https://github.com/chokcoco/iCSS/issues/24)
 
 #### 34、[你所不知道的 CSS 动画技巧与细节](https://github.com/chokcoco/iCSS/issues/27)
 
 #### 35、[你所不知道的 CSS 滤镜技巧与细节](https://github.com/chokcoco/iCSS/issues/30)
 
-#### 36、
+#### 36、[`text-fill-color` 与 `color` 的异同](https://github.com/chokcoco/iCSS/issues/17)
+
+#### 37、[两行 CSS 代码实现图片任意颜色赋色技术](https://github.com/chokcoco/iCSS/issues/32)
+
+#### 38、聊聊逐帧动画与过渡动画，耗性能样式的取舍
+
+## Contact Me
+
+如果有任何问题或者疑问，可以加 QQ 群：418766876 联系我，[一键加群讨论](//shang.qq.com/wpa/qunwpa?idkey=318940c0ae56f4556447291fb2fc6147a7b1760487c49c1e3410c377d946fc5a) 。
+
+也欢迎想讨论各种天马行空的 CSS 相关问题的小伙伴们加入。
+
+![qun](https://github.com/chokcoco/iCSS/blob/master/qqqun.png)
 
